@@ -34,7 +34,7 @@ The implementation is based on **PyTorch** and includes complete training, evalu
 ## 📊 Training Results
 Below is the training progress in terms of **loss** and **accuracy**:
 
-
+![Loss & Accuracy](./loss_acc_plot.png)
 
 - Final Training Accuracy: ~97%  
 - Final Validation Accuracy: ~98%  
